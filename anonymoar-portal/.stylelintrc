@@ -1,0 +1,7 @@
+{
+   "extends": ["@hellroot/stylelint-config"],
+   "ignoreFiles": ["./node_modules/**", "./build/**"],
+   "plugins": [
+    "stylelint-order"
+  ],
+}

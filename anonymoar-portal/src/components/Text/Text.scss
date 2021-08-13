@@ -1,0 +1,21 @@
+@import '../../styles/Colors.scss';
+
+.Text {
+  font-size: medium;
+
+  &_color_brand {
+    color: $brand;
+  }
+
+  &_color_text-primary {
+    color: $text-primary;
+  }
+
+  &_color_text-secondary {
+    color: $text-secondary;
+  }
+
+  &_color_text-light {
+    color: $text-light;
+  }
+}
